@@ -1,3 +1,3 @@
 # agent
 
-Welcomet to Super Safe Cloud Agent.
+Welcomet to SuperSafeCloudAgent.
